@@ -1,7 +1,7 @@
 # AI-Generated Incremental Adaptive Data Storytelling for Young Learners
 
 This repository contains supplementary materials accompanying the paper "AI-Generated Incremental Adaptive Data Storytelling for Young Learners
-" submitted to ECTEL 2025. It provides all necessary resources to replicate the experiment described in the study.
+" submitted to CHIRA 2025. It provides all necessary resources to replicate the experiment described in the study.
 
 ## Repository Structure
 
